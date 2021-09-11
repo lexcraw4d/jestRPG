@@ -1,0 +1,22 @@
+{
+  "name": "jestrpg",
+  "version": "1.0.0",
+  "description": "RPG via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexcraw4d/jestRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexcraw4d/jestRPG/issues"
+  },
+  "homepage": "https://github.com/lexcraw4d/jestRPG#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
